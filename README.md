@@ -1,5 +1,7 @@
 # RemoveBackseatBag
 
+[![](https://img.shields.io/github/downloads/Jalopy-Mods/RemoveBackseatBag/total)](#)
+
 This mod removes the bag from the backseat of the Laika.
 
 ### How to install
